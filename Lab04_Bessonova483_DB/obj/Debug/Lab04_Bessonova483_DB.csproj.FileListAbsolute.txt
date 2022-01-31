@@ -1,0 +1,10 @@
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\obj\Debug\Lab04_Bessonova483_DB.csproj.AssemblyReference.cache
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\obj\Debug\Lab04_Bessonova483_DB.FormMain.resources
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\obj\Debug\Lab04_Bessonova483_DB.Properties.Resources.resources
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\obj\Debug\Lab04_Bessonova483_DB.csproj.GenerateResource.cache
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\obj\Debug\Lab04_Bessonova483_DB.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\bin\Debug\Lab04_Bessonova483_DB.exe.config
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\bin\Debug\Lab04_Bessonova483_DB.exe
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\bin\Debug\Lab04_Bessonova483_DB.pdb
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\obj\Debug\Lab04_Bessonova483_DB.exe
+F:\мои данные\vs\Lab04_Bessonova483_DB\Lab04_Bessonova483_DB\obj\Debug\Lab04_Bessonova483_DB.pdb
